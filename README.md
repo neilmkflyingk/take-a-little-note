@@ -34,6 +34,10 @@
   
   Once you have arrived at the landing page, click on the Get Started button. You will be taken to the notes page. Add a title and text in appropriate fields and save icon will appear in the nav bar. Once you have saved a note, it will appear in the left column. To edit notes, click on the note title in the left column and it will appear in the right coulumn. Then simply click the save icon again to save note. When you are ready to delete a note, simply click the trash icon next to the note you wish to delete.
   
+  ## Sources
+
+  Starter code was provided for this product, a copy of which, can be found in the folder labeled starter code at the root of this application.
+
   ## License
   
   MIT License
