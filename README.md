@@ -24,7 +24,7 @@
   
   *Instructions on how to install project and to get the development environment running:*
   
-  This application is deployed live at: 
+  This application is deployed live at: https://take-a-little-note-80002eb793a5.herokuapp.com/
 
   You can also view this application by first cloning the repository to your local. Then navigate to the root folder of the app in your command line. Run npm i. Once all dependencies are installed, run node server.js in the command line. The application will be available at localhost 3001.
   
